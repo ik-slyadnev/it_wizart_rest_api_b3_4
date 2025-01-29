@@ -1,1 +1,6 @@
-# it_wizart_rest_api_b3_4
+# IT WIZARD
+## REST API test automation (Advanced)
+
+### Блок 3: Проверки
+- PyHamcrest
+
